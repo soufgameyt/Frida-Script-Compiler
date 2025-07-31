@@ -3,12 +3,19 @@ A simple command-line tool to compile Frida Scripts
 
 ## Usage
 First, make the script executable:
+
 ```bash
-chmod +x ScriptCompiler```
-
+chmod +x ScriptCompiler
 ```
-ScriptCompiler <input_js_file> <output_js_file>```
 
-## Example 
+Then run:
 
-```./ScriptCompiler original.js compiled.js````
+```bash
+./ScriptCompiler <input_js_file> <output_js_file>
+```
+
+## Example
+
+```bash
+./ScriptCompiler original.js compiled.js
+```
