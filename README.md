@@ -2,7 +2,7 @@
 A simple command-line tool to compile Frida Scripts
 
 ## Usage
-First, make the script executable:
+First, make the binary executable:
 
 ```bash
 chmod +x ScriptCompiler
